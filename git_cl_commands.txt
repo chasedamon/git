@@ -38,3 +38,13 @@ git checkout branchname - switch to the branch named branchname.
 git checkout -b branchname - create a new branch named branchname and switch to that branch.
 
 git merge branchname - merge the history from branchname into the current branch.
+
+
+
+
+
+
+
+
+
+

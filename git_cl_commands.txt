@@ -40,7 +40,7 @@ git checkout -b branchname - create a new branch named branchname and switch to 
 git merge branchname - merge the history from branchname into the current branch.
 
 git clone - create a new repository that is a clone of a remote repository.
-git clone "remote repository" "copy of repository"
+$git clone "remote repository" "copy of repository"
 
 git remote - list all remote repositories associated with the current repository.
 

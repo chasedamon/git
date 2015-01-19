@@ -4,10 +4,14 @@ Learning git
 Unix Command Refresher
 
 cd - think 'change directory:' change the current working directory. Remember that ~ is a special symbol that always represents your "home" directory.
+
 ls - think 'list:' shows a list of all files/folders in the current directory. With the -a flag, also shows hidden files and folders.
+
 mkdir - think 'make directory:' creates a new directory with the specified name.
 touch - updates the "last modified" timestamp on a file to now. Also creates an empty file if the filename specified doesn't exist.
+
 mv - think 'move:' moves a file or directory to a new location. This also makes it a convenient way to rename files and folders.
+
 rm - think 'remove:' deletes the file(s)/folder(s) specified.
 
 Git Commands

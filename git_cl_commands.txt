@@ -23,3 +23,17 @@ git add - adds files to the repository so that Git knows to track their changes.
 git commit - commits all added files to the repository as a change. With the -a flag, commits all changes to all tracked files. With the -m flag, allows you to specify a commit message directly on the command line instead of in your default editor.
 
 git config - allows you to make configuration changes to Git. With the --global flag, makes these changes available across your entire system.
+
+git status - show the current status of the git repository, including if there are any uncommitted changes and whether or not any of our changes have been put in the staging area.
+
+git log - Show us a chronological log of all of our commits to the current repository.
+
+git checkout - "check out" a different version of the code from the one you're currently looking at.
+
+git diff - create a "diff" view to demonstrate what has changed between two different versions of your repository.git branch branchname - create a new branch named branchname.
+
+git checkout branchname - switch to the branch named branchname.
+
+git checkout -b branchname - create a new branch named branchname and switch to that branch.
+
+git merge branchname - merge the history from branchname into the current branch.

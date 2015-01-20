@@ -45,10 +45,13 @@ $git clone "remote repository" "copy of repository"
 git remote - list all remote repositories associated with the current repository.
 
 git remote add - add a new remote repository to the current repository.
+git remote add <name> <url>
 
 git push - push your latest changes to a remote repository.
+git push origin "changed_file" - used to push to the origin the changes you've made.
 
 git pull - pull the latest changes from a remote repository to your repository.
+git pull <remote_name> <branch_name>
 
 
 
